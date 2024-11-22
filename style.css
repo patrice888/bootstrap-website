@@ -1,0 +1,31 @@
+body {
+    background-color: orange;
+    margin-bottom: 100px;
+}
+
+.navbar-brand {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar {
+    background-color: white;
+}
+
+.nav-item {
+    font-size: 20px;
+}
+
+.img-fluid {
+    max-width: 600px; 
+    height: auto;
+}
+
+.card {
+    background-color: antiquewhite;
+    margin-top: 5%;
+    margin-right: 10px; 
+}
+
+footer {
+    padding-bottom: 20px;
+}
